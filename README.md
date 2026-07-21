@@ -57,7 +57,7 @@ Developed an interactive Power BI dashboard to analyze IT helpdesk performance b
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard%20-%20screenshot/Dashboard-screenshot_1)
+![Dashboard](Dashboard%20-%20screenshot/Dashboard-screenshot_1.png)
 
 ---
 
