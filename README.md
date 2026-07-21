@@ -57,7 +57,7 @@ Developed an interactive Power BI dashboard to analyze IT helpdesk performance b
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard%20-%20screenshot/dashboard.png)
+![Dashboard](Dashboard%20-%20screenshot/Dashboard-screenshot_1)
 
 ---
 
@@ -74,5 +74,5 @@ Developed an interactive Power BI dashboard to analyze IT helpdesk performance b
 
 **Gokulnath V**
 
-- LinkedIn: *(Add your LinkedIn URL)*
-- GitHub: *(Add your GitHub Profile URL)*
+- LinkedIn: (https://www.linkedin.com/in/gokulnath28)
+- GitHub:  (https://www.github.com/in/V-Gokulnath)
