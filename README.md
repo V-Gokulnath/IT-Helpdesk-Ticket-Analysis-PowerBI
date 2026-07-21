@@ -1,40 +1,78 @@
-# IT-Helpdesk-Ticket-Analysis-PowerBI
+# IT Helpdesk Ticket Analysis Dashboard | Power BI
 
-Project Overview
+## 📌 Project Overview
+Developed an interactive Power BI dashboard to analyze IT helpdesk performance by monitoring ticket volume, SLA compliance, issue types, priorities, and customer satisfaction. The dashboard provides actionable insights to improve operational efficiency and support data-driven decision-making.
 
-This project presents an interactive Power BI dashboard designed to analyze IT helpdesk ticket performance. It enables stakeholders to monitor SLA compliance, ticket priorities, issue types, customer satisfaction, and operational efficiency.
+---
 
-Objectives
-Monitor ticket trends
-Analyze SLA compliance
-Track customer satisfaction
-Identify high-priority issues
-Support data-driven decision making
-Tools Used
-Power BI Desktop
-Power Query
-DAX
-Microsoft Excel
-Dashboard Features
-KPI Cards
-Ticket Volume Analysis
-SLA Compliance
-Priority Analysis
-Issue Type Distribution
-Satisfaction Analysis
-Quarterly Trend Analysis
-Interactive Filters
-KPIs
-Total Tickets Opened
-Tickets Within SLA
-SLA Breach Count
-Average Satisfaction Rating
-SLA Compliance %
-Skills Demonstrated
-Data Cleaning
-Data Modeling
-DAX
-Power Query
-Dashboard Design
-Business Intelligence
-Data Visualization
+## 🎯 Objectives
+- Monitor ticket volume and SLA compliance
+- Analyze ticket priorities and issue types
+- Track customer satisfaction
+- Identify operational trends
+- Improve IT support performance through data insights
+
+---
+
+## 🛠️ Tools & Technologies
+- Power BI Desktop
+- Power Query
+- DAX
+- Microsoft Excel
+
+---
+
+## 📊 Dashboard Features
+- KPI Cards
+- SLA Compliance Analysis
+- Ticket Priority Analysis
+- Issue Type Distribution
+- Customer Satisfaction Analysis
+- Quarterly Ticket Trend
+- Interactive Slicers & Filters
+
+---
+
+## 📈 Key Performance Indicators (KPIs)
+- Total Tickets Opened
+- Tickets Within SLA
+- Tickets Outside SLA
+- SLA Compliance %
+- SLA Breach Count
+- Average Customer Satisfaction
+
+---
+
+## 💡 Skills Demonstrated
+- Data Cleaning
+- Data Transformation
+- Data Modeling
+- DAX
+- Power Query
+- KPI Reporting
+- Dashboard Development
+- Business Intelligence
+
+---
+
+## 📷 Dashboard Preview
+
+![Dashboard](Dashboard%20-%20screenshot/dashboard.png)
+
+---
+
+## 📂 Repository Structure
+
+├── Ticket Analysis.pbix  
+├── IT-Tickets-Analysis.xlsx  
+├── Dashboard - screenshot/  
+├── README.md
+
+---
+
+## 👨‍💻 Author
+
+**Gokulnath V**
+
+- LinkedIn: *(Add your LinkedIn URL)*
+- GitHub: *(Add your GitHub Profile URL)*
